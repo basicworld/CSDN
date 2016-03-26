@@ -1,5 +1,9 @@
 # CSDN
 
+
+目前csdn已经不再更新，技术分享已经转移到我的博客：http://www.itprofessor.cn/
+
+
 All my CSDN code will save here
 
 最近不学无术，写了三篇博文，教小白使用python进行模拟登陆，欢迎查看和吐槽，^_^
